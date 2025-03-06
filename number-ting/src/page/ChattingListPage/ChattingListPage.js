@@ -3,7 +3,7 @@ import React from 'react'
 const ChattingListPage = () => {
   return (
     <div>
-      ChattingListPageddd
+      ChattingListPage
     </div>
   )
 }

@@ -8,4 +8,4 @@ const ChattingListPage = () => {
   )
 }
 
-export default ChattingListPage
+export default ChattingListPage 
